@@ -122,7 +122,7 @@ Add the same `VITE_SUPABASE_*` variables in your Vercel project under **Settings
 
 ## 📸 Screenshots
 
-![ITMaintenance screenshot](./public/og-img.png)
+![ITMaintenance screenshot](./public/og-image.png) 
 
 ## 👩‍💻 Author
 
