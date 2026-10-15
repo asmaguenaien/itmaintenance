@@ -12,7 +12,7 @@ The application integrates Supabase for authentication and PostgreSQL data stora
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?logo=supabase&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-🔗 **Live Demo:** [Add your Vercel URL here](https://your-project.vercel.app)
+🔗 **Live Demo:** ((https://itmaintenance.vercel.app/))
 
 > **Note:** The interface is in French.
 
@@ -119,9 +119,10 @@ Add the same `VITE_SUPABASE_*` variables in your Vercel project under **Settings
 - [ ] Add automated tests for authentication and core workflows.
 - [ ] Improve accessibility and user experience.
 
+
 ## 📸 Screenshots
 
-Screenshots of the dashboard, equipment inventory, maintenance management, and complaints interface will be added here.
+![ITMaintenance screenshot](./public/og-img.png)
 
 ## 👩‍💻 Author
 
